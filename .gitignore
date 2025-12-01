@@ -1,0 +1,45 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyCharm / IDE files
+.idea/
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+parts/
+sdist/
+*.egg-info/
+.installed.cfg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+coverage/
+.coverage
+.cache
+pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# SQLite temporary files
+*.db-shm
+*.db-wal
+
