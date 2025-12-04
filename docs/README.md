@@ -83,7 +83,7 @@ After submission:
 
 The form calls the Week 8 insert_incident() function
 
-On success → Shows st.success()
+On success - Shows st.success()
 
 
 Streamlit — frontend interface
@@ -104,6 +104,6 @@ Week 7: Authentication system (file-based)
 
 Week 8: Database system (SQLite + CRUD)
 
-Week 9: Streamlit UI (homepage → dashboard → incident creation)
+Week 9: Streamlit UI
 
 
