@@ -1,45 +1,22 @@
+# Byte-compiled / cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*$py.class
 
 # Virtual environments
 venv/
-env/
 .venv/
 
-# PyCharm / IDE files
+# Pycharm project files
 .idea/
-.vscode/
 
-# Distribution / packaging
-build/
-dist/
-downloads/
-eggs/
-parts/
-sdist/
-*.egg-info/
-.installed.cfg
+# Streamlit cache
+.streamlit/
 
-# PyInstaller
-*.manifest
-*.spec
+# Local Database + CSV data
+DATA/*.db
+DATA/*.csv
+DATA/users.txt
 
-# Unit test / coverage
-htmlcov/
-.tox/
-.nox/
-coverage/
-.coverage
-.cache
-pytest_cache/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# SQLite temporary files
-*.db-shm
-*.db-wal
-
+# OS system files
+.DS_Store
+Thumbs.db
